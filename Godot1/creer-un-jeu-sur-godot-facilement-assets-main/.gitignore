@@ -1,0 +1,14 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot binary/executable
+Godot_v*
+
+# Import files
+*.import
+
+# OS files
+.DS_Store
+Thumbs.db
+
